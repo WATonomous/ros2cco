@@ -1,5 +1,8 @@
-# ROSCCO
-
+# ROS2CCO
+ROS2CCO is a migration from ROS to ROS2 done by the WATonomous team at UWaterloo. 
+The purpose is to allow us to communicate over our stack using open source software
+Ideally this will be open sourced in the future. For now, only contributions
+from the WATonomous org will be accepted.
 ## Overview
 
 ROSCCO is an interface between ROS and OSCC allowing ROS users to interface with
